@@ -196,5 +196,145 @@
         "recipeName": "Pasta Carbonara",
         "ingredients": ["200g de espaguetis", "100g de panceta", "2 cucharaditas de aceite de oliva", "100g de guisantes", "2 cucharadas grandes de queso Pecorino rallado", "2 cucharadas grandes de crema", "2 cucharadas grandes de queso Parmesano rallado", "Sal y pimienta negra al gusto", "2 cucharadas grandes de masala de chocolate"],
         "instruction": ["Hervir los espaguetis y reservar.", "Freír la panceta en aceite de oliva y mezclar con queso Pecorino.", "Hervir la panceta y mezclar con aceite de oliva.", "Combinar los espaguetis, panceta, queso Pecorino, crema, queso Parmesano, sal, pimienta negra y masala de chocolate.", "Servir la Pasta Carbonara recién hecha."]
+    },
+    {
+    "recipeName": "अंडा भुर्जी",
+    "ingredients": ["4 अंडे", "1 प्याज, कद्दुकस किया गया", "1 टमाटर, कद्दुकस किया गया", "1 हरी मिर्च, कद्दुकस की गई", "1/2 छोटी चम्मच हल्दी पाउडर", "1 छोटी चम्मच गरम मसाला", "नमक स्वाद के अनुसार", "कटा हुआ हरा धनिया सजाने के लिए", "2 छोटे चम्मच घी"],
+    "instruction": ["अंडे फेंटें और एक बाउल में रखें।", "पैन में घी गरम करें और प्याज, टमाटर, हरी मिर्च को साute करें।", "हल्दी पाउडर, गरम मसाला, और नमक मिलाएं।", "फेंटें हुए अंडे मिलाएं और अच्छे से मिलाएं।", "कटा हुआ हरा धनिया से सजाकर गरमा गरम परोसें।"]
+    },
+    {
+        "recipeName": "Scrambled Eggs",
+        "ingredients": ["4 eggs", "1 onion, finely chopped", "1 tomato, diced", "1 green chili, finely chopped", "1/2 small spoon turmeric powder", "1 small spoon garam masala", "Salt to taste", "Chopped coriander for garnish", "2 small spoons ghee"],
+        "instruction": ["Beat the eggs and set aside in a bowl.", "Heat ghee in a pan and sauté onion, tomato, and green chili.", "Add turmeric powder, garam masala, and salt.", "Mix in beaten eggs and stir well.", "Garnish with chopped coriander and serve hot."]
+    },
+    {
+        "recipeName": "Huevos Revueltos",
+        "ingredients": ["4 huevos", "1 cebolla, finamente picada", "1 tomate, cortado en cubos", "1 chile verde, finamente picado", "1/2 cucharadita de cúrcuma en polvo", "1 cucharadita de garam masala", "Sal al gusto", "Cilantro picado para decorar", "2 cucharaditas de ghee"],
+        "instruction": ["Batir los huevos y reservar en un tazón.", "Calentar el ghee en una sartén y saltear la cebolla, el tomate y el chile verde.", "Agregar cúrcuma en polvo, garam masala y sal.", "Mezclar los huevos batidos y revolver bien.", "Decorar con cilantro picado y servir caliente."]
+    },
+    {
+        "recipeName": "मसाला अंडा करी",
+        "ingredients": ["6 अंडे", "2 प्याज, कद्दुकस किए गए", "2 टमाटर, कद्दुकस किए गए", "1 बड़ी चम्मच अदरक-लहसुन का पेस्ट", "1 छोटी चम्मच हल्दी पाउडर", "1 बड़ा चम्मच धनिया पाउडर", "1 बड़ा चम्मच गरम मसाला", "नमक स्वाद के अनुसार", "कटा हुआ धनिया सजाने के लिए", "2 बड़े चम्मच तेल"],
+        "instruction": ["अंडे उबालकर छिलका उतारें और काटकर रखें।", "पैन में तेल गरम करें और प्याज को साute करें।", "अदरक-लहसुन का पेस्ट और टमाटर मिलाएं और अच्छे से पकाएं।", "हल्दी पाउडर, धनिया पाउडर, गरम मसाला, और नमक मिलाएं।", "अंडे डालकर मसाला अच्छे से लिपटाएं और सजाकर परोसें।"]
+    },
+    {
+        "recipeName": "Masala Egg Curry",
+        "ingredients": ["6 eggs", "2 onions, finely chopped", "2 tomatoes, diced", "1 large spoon ginger-garlic paste", "1 small spoon turmeric powder", "1 large spoon coriander powder", "1 large spoon garam masala", "Salt to taste", "Chopped coriander for garnish", "2 large spoons oil"],
+        "instruction": ["Boil and peel the eggs, then cut them and set aside.", "Heat oil in a pan and sauté onions.", "Add ginger-garlic paste and tomatoes, cook well.", "Mix in turmeric powder, coriander powder, garam masala, and salt.", "Add the eggs, coat them in the masala, garnish with coriander, and serve."]
+    },
+    {
+        "recipeName": "Curry de Huevo con Especias",
+        "ingredients": ["6 huevos", "2 cebollas, finamente picadas", "2 tomates, cortados en cubos", "1 cucharada grande de pasta de jengibre-ajo", "1 cucharadita de cúrcuma en polvo", "1 cucharada grande de cilantro en polvo", "1 cucharada grande de garam masala", "Sal al gusto", "Cilantro picado para decorar", "2 cucharadas grandes de aceite"],
+        "instruction": ["Hierva y pele los huevos, córtelos y reserve.", "Caliente el aceite en una sartén y saltee las cebollas.", "Añada la pasta de jengibre-ajo y los tomates, cocine bien.", "Mezcle la cúrcuma en polvo, el cilantro en polvo, el garam masala y la sal.", "Añada los huevos, cubra con las especias, decore con cilantro y sirva."]
+    },
+    {
+        "recipeName": "पैनकेक",
+        "ingredients": ["1 कप मैदा", "1 कप दूध", "1 बड़ा चम्मच चीनी", "1 छोटा चम्मच बेकिंग पाउडर", "1/2 छोटा चम्मच नमक", "1 छोटा चम्मच वैनिला एक्सट्रैक्ट", "2 बड़े चम्मच मक्खन", "आटे का तेल पैन को चिढ़ने के लिए"],
+        "instruction": ["मैदा, दूध, चीनी, बेकिंग पाउडर, नमक, वैनिला एक्सट्रैक्ट, और मक्खन को एक बाउल में मिलाएं।", "बैटर को ठंडा होने के लिए 10 मिनट के लिए रखें।", "पैन को गरम करें और उसमें आटे का तेल डालें।", "पैनकेक बनाने के लिए बैटर को लगभग 1/4 कप के मीटर के साथ डालें।", "एक ओटा में सिरका और चीनी के साथ परोसें।"]
+    },
+    {
+        "recipeName": "Pancakes",
+        "ingredients": ["1 cup all-purpose flour", "1 cup milk", "1 tablespoon sugar", "1 small spoon baking powder", "1/2 small spoon salt", "1 small spoon vanilla extract", "2 tablespoons melted butter", "Vegetable oil for greasing the pan"],
+        "instruction": ["Mix flour, milk, sugar, baking powder, salt, vanilla extract, and melted butter in a bowl.", "Let the batter rest for about 10 minutes to cool.", "Heat a pan and add vegetable oil to it.", "Pour approximately 1/4 cup of batter onto the pan to make each pancake.", "Serve hot with syrup and butter."]
+    },
+    {
+        "recipeName": "Panqueques",
+        "ingredients": ["1 taza de harina de todo uso", "1 taza de leche", "1 cucharada de azúcar", "1 cucharadita de polvo de hornear", "1/2 cucharadita de sal", "1 cucharadita de extracto de vainilla", "2 cucharadas de mantequilla derretida", "Aceite vegetal para engrasar la sartén"],
+        "instruction": ["Mezclar harina, leche, azúcar, polvo de hornear, sal, extracto de vainilla y mantequilla derretida en un tazón.", "Dejar reposar la masa durante aproximadamente 10 minutos para que se enfríe.", "Calentar una sartén y agregar aceite vegetal.", "Verter aproximadamente 1/4 de taza de masa en la sartén para hacer cada panqueque.", "Servir caliente con jarabe y mantequilla."]
+    },
+    {
+        "recipeName": "गुलाबजामुन",
+        "ingredients": ["1 कप खोया", "1/4 कप मैदा", "1/4 छोटी चम्मच सूजी", "1 बड़ा चम्मच घी", "1 कप चीनी", "1 कप पानी", "1 छोटी चम्मच कार्डमम पाउडर", "तेल गुलाबजामुन तलने के लिए"],
+        "instruction": ["खोया, मैदा, और सूजी को एक बाउल में मिलाएं।", "घी डालकर मिश्रण को घूंट-घूंट करके गुलाबजामुन का आटा बनाएं।", "छोटे गोले आटे को बनाकर इसमें कार्डमम पाउडर मिलाएं।", "एक कढ़ाई में तेल गरम करें और गुलाबजामुन को सुनहरे रंग तक तलें।", "चीनी और पानी से बनाएं शीरा और ताजा गुलाबजामुन को शीरा में डालें।"]
+    },
+    {
+        "recipeName": "Gulab Jamun",
+        "ingredients": ["1 cup khoya", "1/4 cup all-purpose flour", "1/4 small spoon semolina", "1 large spoon ghee", "1 cup sugar", "1 cup water", "1 small spoon cardamom powder", "Oil for frying gulab jamun"],
+        "instruction": ["Mix khoya, all-purpose flour, and semolina in a bowl.", "Add ghee and knead the mixture to make the dough for gulab jamun.", "Make small round balls of the dough and mix cardamom powder in it.", "Heat oil in a pan and fry the gulab jamuns until they turn golden brown.", "Make sugar syrup with sugar and water, then dip the freshly fried gulab jamuns in the syrup."]
+    },
+    {
+        "recipeName": "Gulab Jamun",
+        "ingredients": ["1 taza de khoya", "1/4 taza de harina de todo uso", "1/4 cucharadita de sémola", "1 cucharada grande de ghee", "1 taza de azúcar", "1 taza de agua", "1 cucharadita pequeña de cardamomo en polvo", "Aceite para freír los gulab jamun"],
+        "instruction": ["Mezclar khoya, harina de todo uso y sémola en un tazón.", "Agregar ghee y amasar la mezcla para hacer la masa de gulab jamun.", "Hacer pequeñas bolas redondas de la masa y mezclar el cardamomo en polvo.", "Calentar aceite en una sartén y freír los gulab jamun hasta que estén dorados.", "Preparar un almíbar con azúcar y agua, luego sumergir los gulab jamun recién fritos en el almíbar."]
+    },
+    {
+        "recipeName": "अंडा भुर्जी और एवोकाडो टोस्ट",
+        "ingredients": ["2 अंडे", "1 छोटी चम्मच दूध", "नमक और काली मिर्च स्वाद के अनुसार", "2 बड़े स्लाइस ब्रेड", "1 एवोकाडो", "1 छोटी चम्मच लाल मिर्च फ्लेक्स", "नींबू के टुकड़े सजाने के लिए", "तेल और मक्खन टोस्ट के लिए"],
+        "instruction": ["अंडे को एक बाउल में फेंटें।", "दूध, नमक, और काली मिर्च मिलाएं।", "तेल में अंडा मिश्रण डालें और हल्के हाथों से छलने के लिए रखें।", "एवोकाडो को कद्दुकस करें और नींबू के टुकड़े सहित सजाएं।", "ब्रेड को टोस्ट करें और मक्खन लगाएं।", "अंडा भुर्जी को टोस्ट के साथ परोसें।"]
+    },
+    {
+        "recipeName": "Scrambled Eggs with Avocado Toast",
+        "ingredients": ["2 eggs", "1 small spoon milk", "Salt and black pepper to taste", "2 large slices of bread", "1 avocado", "1 small spoon red chili flakes", "Lemon wedges for garnish", "Butter and oil for toasting"],
+        "instruction": ["Whisk eggs in a bowl.", "Add milk, salt, and black pepper.", "Heat oil in a pan, pour the egg mixture, and scramble lightly.", "Dice the avocado and garnish with lemon wedges.", "Toast the bread and spread butter.", "Serve scrambled eggs on toast."]
+    },
+    {
+        "recipeName": "Huevos Revueltos con Tostadas de Aguacate",
+        "ingredients": ["2 huevos", "1 cucharadita de leche", "Sal y pimienta negra al gusto", "2 rebanadas grandes de pan", "1 aguacate", "1 cucharadita de copos de chile rojo", "Gajos de limón para decorar", "Mantequilla y aceite para tostar"],
+        "instruction": ["Batir los huevos en un tazón.", "Agregar leche, sal y pimienta negra.", "Calentar aceite en una sartén, verter la mezcla de huevo y revolver ligeramente.", "Cortar el aguacate en cubos y decorar con gajos de limón.", "Tostar el pan y untar mantequilla.", "Servir los huevos revueltos sobre las tostadas."]
+    },
+    {
+        "recipeName": "फ्रेंच टोस्ट",
+        "ingredients": ["4 स्लाइस ब्रेड", "2 अंडे", "1/2 कप दूध", "1 छोटी चम्मच शहद", "1/2 छोटी चम्मच वैनिला एक्सट्रैक्ट", "1/2 छोटी चम्मच सींगी दार चीनी", "2 छोटे चम्मच मक्खन", "फ्रेश फल और शहद से सजाने के लिए"],
+        "instruction": ["ब्रेड स्लाइस को एक बड़े थाली में रखें।", "अंडे को दूध, शहद, वैनिला एक्सट्रैक्ट, और सींगी दार चीनी के साथ एक बाउल में मिलाएं।", "मक्खन को पैन में गरम करें।", "ब्रेड स्लाइस को अंडे के मिश्रण में डालें और अच्छे से लिपटाएं।", "पैन में फ्रेंच टोस्ट को सुनहरे रंग तक तलें।", "फ्रेंच टोस्ट को फ्रेश फल और शहद से सजाकर परोसें।"]
+    },
+    {
+        "recipeName": "French Toast",
+        "ingredients": ["4 slices of bread", "2 eggs", "1/2 cup milk", "1 small spoon honey", "1/2 small spoon vanilla extract", "1/2 small spoon ground cinnamon", "2 small spoons butter", "Fresh fruit and honey for garnish"],
+        "instruction": ["Place bread slices in a large plate.", "In a bowl, mix eggs with milk, honey, vanilla extract, and ground cinnamon.", "Heat butter in a pan.", "Dip bread slices into the egg mixture and coat well.", "Cook the French toast in the pan until golden brown.", "Serve with fresh fruit and drizzle with honey."]
+    },
+    {
+        "recipeName": "Tostadas Francesas",
+        "ingredients": ["4 rebanadas de pan", "2 huevos", "1/2 taza de leche", "1 cucharadita de miel", "1/2 cucharadita de extracto de vainilla", "1/2 cucharadita de canela molida", "2 cucharaditas de mantequilla", "Frutas frescas y miel para decorar"],
+        "instruction": ["Colocar las rebanadas de pan en un plato grande.", "En un tazón, mezclar los huevos con la leche, la miel, el extracto de vainilla y la canela molida.", "Calentar la mantequilla en una sartén.", "Sumergir las rebanadas de pan en la mezcla de huevo y asegurarse de que estén bien cubiertas.", "Cocinar las tostadas francesas en la sartén hasta que estén doradas.", "Servir con frutas frescas y rociar con miel."]
+    },
+    {
+        "recipeName": "ग्रीक सैलेड",
+        "ingredients": ["1 कप शिमला मिर्च, कटा हुआ", "1 कप टमाटर, कटा हुआ", "1 कप खीरा, कटा हुआ", "1/2 कप काली ऑलिव", "1/2 कप फेटा चीज, कटी हुई", "1/4 कप प्याज, कटी हुई", "2 बड़े चम्मच जैतून तेल", "1 छोटी चम्मच लेमन जूस", "नमक और काली मिर्च स्वाद के अनुसार", "1/4 कप धनिया पत्ती, कटी हुई"],
+        "instruction": ["एक बड़े बाउल में शिमला मिर्च, टमाटर, खीरा, काली ऑलिव, और फेटा चीज को मिलाएं।", "प्याज, जैतून तेल, लेमन जूस, नमक, काली मिर्च और धनिया पत्ती डालें।", "अच्छे से मिलाएं ताकि सभी इंग्रेडिएंट्स अच्छे से शामिल हो जाएं।", "सर्व करें और ठंडे ठंडे सर्व करें।"]
+    },
+    {
+        "recipeName": "Greek Salad",
+        "ingredients": ["1 cup bell peppers, diced", "1 cup tomatoes, diced", "1 cup cucumber, diced", "1/2 cup black olives", "1/2 cup feta cheese, crumbled", "1/4 cup red onions, sliced", "2 tablespoons olive oil", "1 small spoon lemon juice", "Salt and black pepper to taste", "1/4 cup chopped cilantro"],
+        "instruction": ["In a large bowl, combine bell peppers, tomatoes, cucumber, black olives, and crumbled feta cheese.", "Add red onions, olive oil, lemon juice, salt, black pepper, and chopped cilantro.", "Toss well to ensure all ingredients are mixed thoroughly.", "Serve and enjoy chilled."]
+    },
+    {
+        "recipeName": "Ensalada Griega",
+        "ingredients": ["1 taza de pimientos, cortados en cubos", "1 taza de tomates, cortados en cubos", "1 taza de pepino, cortado en cubos", "1/2 taza de aceitunas negras", "1/2 taza de queso feta, desmenuzado", "1/4 taza de cebollas rojas, en rodajas", "2 cucharadas de aceite de oliva", "1 cucharadita de jugo de limón", "Sal y pimienta negra al gusto", "1/4 taza de cilantro picado"],
+        "instruction": ["En un tazón grande, combina los pimientos, tomates, pepino, aceitunas negras y queso feta desmenuzado.", "Añade las cebollas rojas, el aceite de oliva, el jugo de limón, la sal, la pimienta negra y el cilantro picado.", "Mezcla bien para asegurar que todos los ingredientes estén bien combinados.", "Sirve y disfruta frío."]
+    },
+    {
+        "recipeName": "सीज़र सैलेड",
+        "ingredients": ["2 कप रोमेन लेट्यूस, कटा हुआ", "1/2 कप क्रूटन्स", "1/4 कप पारमेज़ान चीज, कद्दुकस की गई", "1/4 कप सीज़र ड्रेसिंग", "नमक और काली मिर्च स्वाद के अनुसार"],
+        "instruction": ["एक बड़े बाउल में रोमेन लेट्यूस, क्रूटन्स, पारमेज़ान चीज़ और सीज़र ड्रेसिंग को मिलाएं।", "अच्छे से मिलाएं ताकि सभी सामग्री अच्छे से मिश्रित हों।", "नमक और काली मिर्च स्वाद के अनुसार डालें।", "सर्व करें और ठंडे ठंडे सर्व करें।"]
+    },
+    {
+        "recipeName": "सीज़र सैलेड",
+        "ingredients": ["2 कप रोमेन लेट्यूस, कटा हुआ", "1/2 कप क्रूटन्स", "1/4 कप पारमेज़ान चीज, कद्दुकस की गई", "1/4 कप सीज़र ड्रेसिंग", "नमक और काली मिर्च स्वाद के अनुसार"],
+        "instruction": ["एक बड़े बाउल में रोमेन लेट्यूस, क्रूटन्स, पारमेज़ान चीज़ और सीज़र ड्रेसिंग को मिलाएं।", "अच्छे से मिलाएं ताकि सभी सामग्री अच्छे से मिश्रित हों।", "नमक और काली मिर्च स्वाद के अनुसार डालें।", "सर्व करें और ठंडे ठंडे सर्व करें।"]
+    },
+    {
+        "recipeName": "Caesar Salad",
+        "ingredients": ["2 cups romaine lettuce, chopped", "1/2 cup croutons", "1/4 cup Parmesan cheese, shredded", "1/4 cup Caesar dressing", "Salt and black pepper to taste"],
+        "instruction": ["In a large bowl, combine romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.", "Toss well to ensure all ingredients are mixed thoroughly.", "Add salt and black pepper according to taste.", "Serve and enjoy chilled."]
+    },
+    {
+        "recipeName": "Ensalada César",
+        "ingredients": ["2 tazas de lechuga romana, cortada", "1/2 taza de crutones", "1/4 taza de queso parmesano, rallado", "1/4 taza de aderezo César", "Sal y pimienta negra al gusto"],
+        "instruction": ["En un tazón grande, combina la lechuga romana, los crutones, el queso parmesano y el aderezo César.", "Mezcla bien para asegurar que todos los ingredientes estén bien combinados.", "Añade sal y pimienta negra al gusto.", "Sirve y disfruta frío."]
+    },
+    {
+        "recipeName": "Ensalada César",
+        "ingredients": ["2 tazas de lechuga romana, cortada", "1/2 taza de crutones", "1/4 taza de queso parmesano, rallado", "1/4 taza de aderezo César", "Sal y pimienta negra al gusto"],
+        "instruction": ["En un tazón grande, combina la lechuga romana, los crutones, el queso parmesano y el aderezo César.", "Mezcla bien para asegurar que todos los ingredientes estén bien combinados.", "Añade sal y pimienta negra al gusto.", "Sirve y disfruta frío."]
+    },
+    {
+        "recipeName": "Vegetable Biryani",
+        "ingredients": ["1 cup basmati rice", "2 cups mixed vegetables (carrots, peas, cauliflower, potatoes, and French beans)", "1/2 cup yogurt", "1/4 cup tomato puree", "1 large spoon garam masala", "1 small spoon cumin seeds", "2-3 cloves", "2-3 small sticks of cinnamon", "4-5 basil leaves", "Salt to taste", "2 large spoons ghee", "2 cups water"],
+        "instruction": ["Wash and soak basmati rice.", "Heat ghee in a pan, add cumin seeds, cloves, cinnamon, and basil leaves.", "Add mixed vegetables and sauté well.", "Mix yogurt, tomato puree, garam masala, and salt.", "Add soaked rice and water, mix well, and cook covered on low heat.", "Simmer and cook until the biryani is ready."]
+    },
+    {
+        "recipeName": "Biryani de Verduras",
+        "ingredients": ["1 taza de arroz basmati", "2 tazas de verduras mixtas (zanahorias, guisantes, coliflor, papas y judías verdes)", "1/2 taza de yogur", "1/4 taza de puré de tomate", "1 cucharada grande de masala garam", "1 cucharadita de semillas de comino", "2-3 clavos", "2-3 ramitas pequeñas de canela", "4-5 hojas de albahaca", "Sal al gusto", "2 cucharadas grandes de ghee", "2 tazas de agua"],
+           "instruction": ["Lave y remoje el arroz basmati.", "Caliente el ghee en una sartén, agregue las semillas de comino, los clavos, la canela y las hojas de albahaca.", "Agregue las verduras mixtas y saltee bien.", "Mezcle el yogur, el puré de tomate, el masala garam y la sal.", "Agregue el arroz remojado y el agua, mezcle bien y cocine tapado a fuego lento.", "Cocine a fuego lento hasta que el biryani esté listo."]
     }
 ]
