@@ -3,6 +3,8 @@
 ## Overview
 The Recipe Search and Translation Project is designed to process culinary queries in multiple languages, identifying key ingredients and cooking methods. It can detect and translate queries in English, Spanish, and Hindi, making it a versatile tool for a global audience. The project leverages advanced NLP techniques for parsing and machine learning models for recipe recommendations.
 
+[img](
+
 ## Features
 - **Multilingual Support:** English, Spanish, Hindi.
 - **Query Parsing:** Extracts key information from natural language queries.
