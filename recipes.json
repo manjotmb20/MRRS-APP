@@ -1,0 +1,200 @@
+[
+    {
+        "recipeName": "मार्गेरीता पिज़्ज़ा",
+        "ingredients": ["2 कप मैदा (flour)", "1 कप पानी (water)", "1 छोटा चम्मच खमीर (1 tsp yeast)", "1 छोटा चम्मच नमक (1 tsp salt)", "1 बड़ा चम्मच जैतून का तेल (1 tbsp olive oil)", "1/2 कप टमाटर की सॉस (1/2 cup tomato sauce)", "1 कप मोज़ारेला चीज़ (1 cup mozzarella cheese)", "ताजगी वाले तुलसी पत्तियां (Fresh basil leaves)", "नमक और काली मिर्च स्वाद के अनुसार (Salt and pepper to taste)"],
+        "instruction": ["पानी में खमीर घोलकर मैदा, नमक, और तेल के साथ मिश्रित डो को बनाएं। 1 घंटे के लिए राइज़ होने दें।", "ओवन को 475°F (245°C) पर प्रीहीट करें।", "डो को बेलन से बेलें और टमाटर की सॉस लगाएं।", "मोज़ारेला चीज़ और बेसिल पत्तियां डालें।", "नमक और काली मिर्च से सीज़न करें।", "क्रस्ट सुनहरा होने तक 10-15 मिनट तक बेक करें।"]
+    },
+    {
+        "recipeName": "Margherita Pizza",
+        "ingredients": ["2 cups flour", "1 cup water", "1 tsp yeast", "1 tsp salt", "1 tbsp olive oil", "1/2 cup tomato sauce", "1 cup mozzarella cheese", "Fresh basil leaves", "Salt and pepper to taste"],
+        "instruction": ["Dissolve yeast in water and mix with flour, salt, and oil to form a dough. Let it rise for 1 hour.", "Preheat oven to 475°F (245°C).", "Roll out the dough and apply tomato sauce.", "Add mozzarella cheese and basil leaves.", "Season with salt and pepper.", "Bake for 10-15 minutes until the crust is golden."]
+    },
+    {
+        "recipeName": "Pizza Margarita",
+        "ingredients": ["2 tazas de harina (2 cups flour)", "1 taza de agua (1 cup water)", "1 cucharadita de levadura (1 tsp yeast)", "1 cucharadita de sal (1 tsp salt)", "1 cucharada de aceite de oliva (1 tbsp olive oil)", "1/2 taza de salsa de tomate (1/2 cup tomato sauce)", "1 taza de queso mozzarella (1 cup mozzarella cheese)", "Hojas frescas de albahaca (Fresh basil leaves)", "Sal y pimienta al gusto (Salt and pepper to taste)"],
+        "instruction": ["Disolver la levadura en agua y mezclar con harina, sal, y aceite para formar una masa. Dejar reposar durante 1 hora.", "Precalentar el horno a 475°F (245°C).", "Extender la masa y aplicar salsa de tomate.", "Agregar queso mozzarella y hojas de albahaca.", "Sazonar con sal y pimienta.", "Hornear durante 10-15 minutos hasta que la masa esté dorada."]
+    },
+    {
+        "recipeName": "बर्गर",
+        "ingredients": ["200 ग्राम कीमा (200g ground beef)", "1 बड़ा प्याज (1 large onion, sliced)", "1 टमाटर (1 tomato, sliced)", "4 बंस (4 buns)", "4 पत्तियां लेट्टस (4 lettuce leaves)", "4 चीज़ स्लाइस (4 cheese slices)", "मस्टर्ड और केचप (Mustard and ketchup)", "नमक और काली मिर्च स्वाद के अनुसार (Salt and pepper to taste)"],
+        "instruction": ["कढ़ाई में कीमा पकाएं और गरमा गरम बनाएं।", "बंस को टोस्ट करें और मस्टर्ड और केचप लगाएं।", "पत्तियों पर लेट्टस, टमाटर, प्याज, गरम कीमा, और चीज़ स्लाइस रखें।", "नमक और काली मिर्च से स्वाद करें और बर्गर को बंद करें।", "गरमा गरम बर्गर को सर्व करें।"]
+    },
+    {
+        "recipeName": "रामेन",
+        "ingredients": ["200 ग्राम रामेन नूडल्स (200g ramen noodles)", "4 कप शोयु (4 cups soy sauce)", "1 टेबलस्पून सेसेम ऑयल (1 tablespoon sesame oil)", "1 कप टोफू, कटा हुआ (1 cup tofu, diced)", "1 कप मिक्स वेजिटेबल्स (1 cup mixed vegetables)", "2 अंडे (2 eggs, boiled and sliced)", "हरा प्याज (Green onions for garnish)", "नमक और काली मिर्च स्वाद के अनुसार (Salt and pepper to taste)"],
+        "instruction": ["रामेन नूडल्स को पकाएं और छलने के बाद अलग रखें।", "कढ़ाई में शोयु, सेसेम ऑयल, टोफू, और सब्जियां मिलाएं।", "बॉयल्ड अंडे, नूडल्स, और मिश्रण में डालें।", "नमक और काली मिर्च से स्वाद करें।", "हरे प्याज से सजाकर गरमा गरम परोसें।"]
+    },
+    {
+        "recipeName": "पाएला",
+        "ingredients": ["1 कप छोड़ की चावल (1 cup short-grain rice)", "1/2 कप जैरोन या चिकन (1/2 cup chorizo or chicken, diced)", "1/2 कप गम्बेर (1/2 cup shrimp)", "1 प्याज (1 onion, chopped)", "2 टमाटर (2 tomatoes, diced)", "1 टेस्पून पाएला मसाला (1 teaspoon paella spice)", "2 कप चिकन स्टॉक (2 cups chicken stock)", "केसर (Saffron strands)", "नमक और काली मिर्च स्वाद के अनुसार (Salt and pepper to taste)"],
+        "instruction": ["एक पाएला पैन में चावल, जैरोन या चिकन, गम्बेर, प्याज, और टमाटर डालें।", "पाएला मसाला, चिकन स्टॉक, केसर, नमक, और काली मिर्च मिलाएं।", "उबालने दें और सिम करें जब तक चावल पक जाएं।", "पाएला को हल्के से छिद्रित करें और सर्व करें।"]
+    },
+    {
+        "recipeName": "Burger",
+        "ingredients": ["200g ground beef", "1 large onion, sliced", "1 tomato, sliced", "4 buns", "4 lettuce leaves", "4 cheese slices", "Mustard and ketchup", "Salt and pepper to taste"],
+        "instruction": ["Cook ground beef in a pan until browned and cooked through.", "Toast the buns and spread mustard and ketchup.", "Layer lettuce, tomato, onion, hot beef, and cheese slices on the buns.", "Season with salt and pepper and close the burger.", "Serve the hot burger."]
+    },
+    {
+        "recipeName": "Ramen",
+        "ingredients": ["200g ramen noodles", "4 cups soy sauce", "1 tablespoon sesame oil", "1 cup tofu, diced", "1 cup mixed vegetables", "2 eggs, boiled and sliced", "Green onions for garnish", "Salt and pepper to taste"],
+        "instruction": ["Cook ramen noodles and set aside after draining.", "In a pot, combine soy sauce, sesame oil, tofu, and vegetables.", "Add boiled eggs, noodles, and mix well.", "Season with salt and pepper.", "Garnish with green onions and serve hot."]
+    },
+    {
+        "recipeName": "Paella",
+        "ingredients": ["1 cup short-grain rice", "1/2 cup chorizo or chicken, diced", "1/2 cup shrimp", "1 onion, chopped", "2 tomatoes, diced", "1 teaspoon paella spice", "2 cups chicken stock", "Saffron strands", "Salt and pepper to taste"],
+        "instruction": ["In a paella pan, add rice, chorizo or chicken, shrimp, onion, and tomatoes.", "Mix in paella spice, chicken stock, saffron, salt, and pepper.", "Bring to a boil and simmer until the rice is cooked.", "Fluff the paella gently and serve."]
+    },
+    {
+        "recipeName": "Burger",
+        "ingredients": ["200g carne molida", "1 cebolla grande, en rodajas", "1 tomate, en rodajas", "4 panes", "4 hojas de lechuga", "4 rebanadas de queso", "Mostaza y ketchup", "Sal y pimienta al gusto"],
+        "instruction": ["Cocinar la carne molida en una sartén hasta que esté dorada y cocida.", "Tostar los panes y untar mostaza y ketchup.", "Colocar capas de lechuga, tomate, cebolla, carne caliente y rebanadas de queso en los panes.", "Condimentar con sal y pimienta y cerrar la hamburguesa.", "Servir la hamburguesa caliente."]
+    },
+    {
+        "recipeName": "Ramen",
+        "ingredients": ["200g fideos de ramen", "4 tazas de salsa de soja", "1 cucharada de aceite de sésamo", "1 taza de tofu, cortado en cubos", "1 taza de verduras mixtas", "2 huevos, cocidos y en rodajas", "Cebollas verdes para decorar", "Sal y pimienta al gusto"],
+        "instruction": ["Cocinar los fideos de ramen y reservar después de escurrir.", "En una olla, combinar la salsa de soja, el aceite de sésamo, el tofu y las verduras.", "Agregar los huevos cocidos, los fideos y mezclar bien.", "Condimentar con sal y pimienta.", "Decorar con cebollas verdes y servir caliente."]
+    },
+    {
+        "recipeName": "Paella",
+        "ingredients": ["1 taza de arroz de grano corto", "1/2 taza de chorizo o pollo, en cubos", "1/2 taza de camarones", "1 cebolla, picada", "2 tomates, en cubos", "1 cucharadita de especias para paella", "2 tazas de caldo de pollo", "Hebras de azafrán", "Sal y pimienta al gusto"],
+        "instruction": ["En una paellera, agregar arroz, chorizo o pollo, camarones, cebolla y tomates.", "Mezclar con especias para paella, caldo de pollo, azafrán, sal y pimienta.", "Llevar a ebullición y cocinar a fuego lento hasta que el arroz esté cocido.", "Revolver suavemente la paella y servir."]
+    },
+    {
+        "recipeName": "Chicken Curry",
+        "ingredients": ["500g chicken, cut into pieces", "2 onions, finely chopped", "2 tomatoes, pureed", "1/4 cup yogurt", "2 tbsp oil", "1 tsp ginger-garlic paste", "1 tsp cumin powder", "1 tsp coriander powder", "1/2 tsp turmeric powder", "1/2 tsp red chili powder", "Salt to taste", "Fresh coriander leaves for garnish"],
+        "instruction": ["Heat oil in a pan and sauté onions until golden brown.", "Add ginger-garlic paste, chicken, and cook until chicken is browned.", "Add tomato puree, yogurt, and spices. Cook until oil separates.", "Add water if needed and simmer until chicken is cooked through.", "Garnish with fresh coriander leaves and serve."]
+    },
+    {
+        "recipeName": "Paneer Tikka",
+        "ingredients": ["250g paneer cubes", "1 cup yogurt", "1 tbsp ginger-garlic paste", "1 tsp turmeric powder", "1 tsp garam masala", "1 tsp cumin powder", "1 tsp red chili powder", "Salt to taste", "Lemon wedges", "Fresh mint leaves for garnish"],
+        "instruction": ["Mix yogurt, ginger-garlic paste, and spices to make a marinade.", "Coat paneer cubes in the marinade and let it sit for 1 hour.", "Thread the marinated paneer onto skewers and grill until golden brown.", "Serve with lemon wedges and garnish with fresh mint leaves."]
+    },
+    {
+        "recipeName": "चिकन करी",
+        "ingredients": ["500 ग्राम चिकन, कटा हुआ", "2 प्याज, बारीक कटा हुआ", "2 टमाटर, प्यूरी किया हुआ", "1/4 कप दही", "2 बड़े चम्मच तेल", "1 छोटा चम्मच अदरक-लहसुन का पेस्ट", "1 छोटा चम्मच जीरा पाउडर", "1 छोटा चम्मच धनिया पाउडर", "1/2 छोटा चम्मच हल्दी पाउडर", "1/2 छोटा चम्मच लाल मिर्च पाउडर", "नमक स्वाद के अनुसार", "ताजगी वाले धनिया पत्तियां सजाने के लिए"],
+        "instruction": ["एक पैन में तेल गरम करें और प्याज को सुनहरा होने तक भूनें।", "अदरक-लहसुन का पेस्ट, चिकन डालें और चिकन को भूनें जब तक वह भूरा नहीं होता है।",
+        "टमाटर प्यूरी, दही, और मसालों को डालें। तेल अलग होने तक पकाएं।",
+        "आवश्यक होने पर पानी डालें और चिकन पकने तक धीमी आंच पर रखें।",
+        "ताजगी वाले धनिया पत्तियों से सजाकर परोसें।"]
+    },
+    {
+        "recipeName": "पनीर टिक्का",
+        "ingredients": ["250 ग्राम पनीर क्यूब्स", "1 कप दही", "1 बड़ा चम्मच अदरक-लहसुन का पेस्ट", "1 छोटा चम्मच हल्दी पाउडर", "1 छोटा चम्मच गरम मसाला", "1 छोटा चम्मच जीरा पाउडर", "1 छोटा चम्मच लाल मिर्च पाउडर", "नमक स्वाद के अनुसार", "नींबू के टुकड़े", "ताजगी वाले पुदीने के पत्तियां सजाने के लिए"],
+        "instruction": ["एक मरिनेट करने के लिए दही, अदरक-लहसुन का पेस्ट, और मसाले मिलाएं।", "पनीर क्यूब्स को मरिनेट में घुमाएं और 1 घंटे के लिए रखें।", "मरिनेट किए गए पनीर को स्क्यूअर में धारित करें और सुनहरा होने तक ग्रिल करें।", "नींबू के टुकड़ों के साथ परोसें और ताजगी वाले पुदीने से सजाकर परोसें।"]
+    },
+    {
+        "recipeName": "Pollo al Curry",
+        "ingredients": ["500g de pollo, cortado en trozos", "2 cebollas, finamente picadas", "2 tomates, triturados", "1/4 taza de yogur", "2 cucharadas de aceite", "1 cucharadita de pasta de jengibre-ajo", "1 cucharadita de comino en polvo", "1 cucharadita de cilantro en polvo", "1/2 cucharadita de cúrcuma en polvo", "1/2 cucharadita de pimiento rojo en polvo", "Sal al gusto", "Hojas frescas de cilantro para decorar"],
+        "instruction": ["Calentar aceite en una sartén y saltear las cebollas hasta que estén doradas.", "Agregar pasta de jengibre-ajo, pollo y cocinar hasta que el pollo esté dorado.", "Agregar puré de tomate, yogur y especias. Cocinar hasta que el aceite se separe.", "Agregar agua si es necesario y cocinar a fuego lento hasta que el pollo esté cocido.", "Decorar con hojas frescas de cilantro y servir."]
+    },
+    {
+        "recipeName": "Paneer Tikka",
+        "ingredients": ["250g de cubos de paneer", "1 taza de yogur", "1 cucharada de pasta de jengibre-ajo", "1 cucharadita de cúrcuma en polvo", "1 cucharadita de garam masala", "1 cucharadita de comino en polvo", "1 cucharadita de pimiento rojo en polvo", "Sal al gusto", "Rodajas de limón", "Hojas frescas de menta para decorar"],
+        "instruction": ["Mezclar yogur, pasta de jengibre-ajo y especias para hacer una marinada.", "Cubrir los cubos de paneer con la marinada y dejar reposar durante 1 hora.", "Enhebrar el paneer marinado en brochetas y grillar hasta que esté dorado.", "Servir con rodajas de limón y decorar con hojas frescas de menta."]
+    },
+    {
+        "recipeName": "बिरयानी",
+        "ingredients": ["2 कप बासमती चावल", "500 ग्राम मुर्गा, कटा हुआ", "1 कप दही", "2 प्याज, कद्दुकस किए गए", "2 टमाटर, कद्दुकस किए गए", "1/2 कप तेल", "1/4 कप घी", "बिरयानी मसाला", "तेज पत्तियां, दालचीनी, लौंग", "नमक और मिर्च स्वाद के अनुसार", "हरा धनिया और पुदीना सजाने के लिए"],
+        "instruction": ["बासमती चावल को धोकर भिगोकर रखें।", "मुर्गा को मरिनेट करें दही और बिरयानी मसाला के साथ।", "तेल में प्याज, टमाटर, और मरिनेट किए गए मुर्गा को भूनें।", "चावल और भूने हुए मुर्गा को एक साथ दम पर रखें।", "नमक, मिर्च और घी के साथ सजाकर परोसें।"]
+    },
+    {
+        "recipeName": "Biryani",
+        "ingredients": ["2 cups basmati rice", "500g chicken, cut into pieces", "1 cup yogurt", "2 onions, finely chopped", "2 tomatoes, chopped", "1/2 cup oil", "1/4 cup ghee", "Biryani masala", "Bay leaves, cinnamon, cloves", "Salt and pepper to taste", "Fresh coriander and mint for garnish"],
+        "instruction": ["Wash and soak basmati rice.", "Marinate chicken with yogurt and biryani masala.", "In a pan, sauté onions, tomatoes, and marinated chicken in oil.", "Layer rice and sautéed chicken in a pot for dum cooking.", "Garnish with salt, pepper, and ghee. Serve with fresh coriander and mint."]
+    },
+    {
+        "recipeName": "Biryani",
+        "ingredients": ["2 tazas de arroz basmati", "500g de pollo, cortado en trozos", "1 taza de yogur", "2 cebollas, finamente picadas", "2 tomates, picados", "1/2 taza de aceite", "1/4 taza de ghee", "Masala de biryani", "Hojas de laurel, canela, clavos", "Sal y pimienta al gusto", "Cilantro fresco y menta para decorar"],
+        "instruction": ["Lavar y remojar el arroz basmati.", "Marinar el pollo con yogur y masala de biryani.", "En una sartén, sofreír cebollas, tomates y pollo marinado en aceite.", "Colocar capas de arroz y pollo en una olla para cocinar a fuego lento.", "Decorar con sal, pimienta y ghee. Servir con cilantro fresco y menta."]
+    },
+    {
+        "recipeName": "गजपाचो",
+        "ingredients": ["6 पके टमाटर", "1 ककड़ी, कद्दुकस की गई", "1 लाल बेल पेपर, कद्दुकस किया गया", "1 छोटा कांटा कटा हुआ प्याज", "2 लहसुन की कलियां, कद्दुकस की गई", "4 कप टमाटर जूस", "1/4 कप जैतून का तेल", "2 बड़े चम्मच लाल वाइन विनेगर", "नमक और काली मिर्च स्वाद के अनुसार", "क्रूटन्स सजाने के लिए"],
+        "instruction": ["टमाटर, ककड़ी, लाल बेल पेपर, प्याज, और लहसुन को ब्लेंडर में पीसेस में काटें।", "टमाटर जूस, जैतून का तेल, और लाल वाइन विनेगर डालकर फिर से ब्लेंड करें।", "नमक और काली मिर्च से स्वाद को समाप्त करें और ठंडे में ठंडा करें।", "क्रूटन्स के साथ सर्व करें।"]
+    },
+    {
+        "recipeName": "Gazpacho",
+        "ingredients": ["6 ripe tomatoes", "1 cucumber, peeled and chopped", "1 red bell pepper, chopped", "1 small red onion, chopped", "2 cloves garlic, minced", "4 cups tomato juice", "1/4 cup olive oil", "2 tbsp red wine vinegar", "Salt and black pepper to taste", "Croutons for garnish"],
+        "instruction": ["Blend tomatoes, cucumber, red bell pepper, onion, and garlic in a blender until smooth.", "Add tomato juice, olive oil, and red wine vinegar. Blend again.", "Season with salt and black pepper, then chill in the refrigerator.", "Serve cold, garnished with croutons."]
+    },
+    {
+        "recipeName": "Gazpacho",
+        "ingredients": ["6 tomates maduros", "1 pepino, pelado y picado", "1 pimiento rojo, picado", "1 cebolla roja pequeña, picada", "2 dientes de ajo, picados", "4 tazas de jugo de tomate", "1/4 taza de aceite de oliva", "2 cucharadas de vinagre de vino tinto", "Sal y pimienta negra al gusto", "Croutons para decorar"],
+        "instruction": ["Licuar tomates, pepino, pimiento rojo, cebolla y ajo hasta obtener una mezcla suave.", "Agregar jugo de tomate, aceite de oliva y vinagre de vino tinto. Licuar nuevamente.", "Condimentar con sal y pimienta negra, luego enfriar en el refrigerador.", "Servir frío, decorado con croutons."]
+    },
+    {
+        "recipeName": "टाकोस",
+        "ingredients": ["250 ग्राम चिकन की ब्रेस्ट, कटा हुआ", "1 पैकेट टाको मसाला", "2 छोटी प्याज, बारीक कटी", "1 टमाटर, कद्दुकस किया गया", "1 कप पत्तियों का कचुम्बर", "1/2 कप साउथवेस्ट सॉल्सा", "1/4 कप धनिया पत्तियां, कटी हुई", "8 टाको शैल टॉर्टिल्ला", "1 कप चीड़र चीज, कद्दुकस की गई", "2 बड़े चम्मच तेल"],
+        "instruction": ["चिकन को टाको मसाला के साथ मैरिनेट करें और 30 मिनट के लिए रखें।", "तेल में चिकन को गरम करें और ब्राउन होने तक पकाएं।", "ब्राउन हुए चिकन को टॉर्टिल्ला पर रखें।", "प्याज, टमाटर, कचुम्बर, सॉल्सा, धनिया, और चीज से सजाकर परोसें।"]
+    },
+    {
+        "recipeName": "Tacos",
+        "ingredients": ["250g chicken breast, diced", "1 packet taco seasoning", "2 small onions, finely chopped", "1 tomato, diced", "1 cup shredded lettuce", "1/2 cup Southwest salsa", "1/4 cup chopped cilantro", "8 taco shell tortillas", "1 cup shredded cheddar cheese", "2 tbsp oil"],
+        "instruction": ["Marinate chicken with taco seasoning and let it sit for 30 minutes.", "Heat oil and cook chicken until browned.", "Place browned chicken on tortilla shells.", "Top with onions, tomatoes, lettuce, salsa, cilantro, and cheese.", "Serve with joy!"]
+    },
+    {
+        "recipeName": "Tacos",
+        "ingredients": ["250g de pechuga de pollo, cortada en cubos", "1 paquete de sazón para tacos", "2 cebollas pequeñas, finamente picadas", "1 tomate, picado", "1 taza de lechuga rallada", "1/2 taza de salsa estilo suroeste", "1/4 taza de cilantro picado", "8 tortillas para tacos", "1 taza de queso cheddar rallado", "2 cucharadas de aceite"],
+        "instruction": ["Marinar el pollo con sazón para tacos y dejar reposar durante 30 minutos.", "Calentar aceite y cocinar el pollo hasta que esté dorado.", "Colocar el pollo dorado en las tortillas para tacos.", "Agregar cebollas, tomates, lechuga, salsa, cilantro y queso.", "¡Servir con alegría!"]
+    },
+    {
+        "recipeName": "हैम्बर्गर",
+        "ingredients": ["200 ग्राम मीट (गाय के गोश्त का मिश्रण)", "1 बड़ा चम्मच ऑनियन पेस्ट", "1 छोटा चम्मच गार्लिक पेस्ट", "1/2 छोटा चम्मच काली मिर्च पाउडर", "नमक स्वाद के अनुसार", "4 हैम्बर्गर बन्स", "4 बड़े पत्तियां गोभी, टमाटर, प्याज", "4 चीज स्लाइस", "लेटस पत्तियां और केचप-मस्तर्ड सॉस सजाने के लिए"],
+        "instruction": ["मीट में ऑनियन पेस्ट, गार्लिक पेस्ट, काली मिर्च पाउडर, और नमक मिलाएं।", "मिश्रण को 4 पत्तियों में बाँटें और हैम्बर्गर बन्स में सजाएं।", "हैम्बर्गर पर गोभी, टमाटर, प्याज, चीज, और लेटस रखें।", "केचप-मस्तर्ड सॉस से सजाकर सर्व करें।"]
+    },
+    {
+        "recipeName": "Hamburger",
+        "ingredients": ["200g ground beef", "1 tablespoon onion paste", "1 teaspoon garlic paste", "1/2 teaspoon black pepper powder", "Salt to taste", "4 hamburger buns", "4 large patties of cabbage, tomato, onion", "4 cheese slices", "Lettuce leaves and ketchup-mustard sauce for garnish"],
+        "instruction": ["Mix ground beef with onion paste, garlic paste, black pepper powder, and salt.", "Divide the mixture into 4 patties and assemble in hamburger buns.", "Place cabbage, tomato, onion, cheese, and lettuce on the hamburger.", "Garnish with ketchup-mustard sauce and serve."]
+    },
+    {
+        "recipeName": "Hamburguesa",
+        "ingredients": ["200g de carne molida (mezcla de carne de res)", "1 cucharada de puré de cebolla", "1 cucharadita de puré de ajo", "1/2 cucharadita de pimienta negra en polvo", "Sal al gusto", "4 panecillos para hamburguesa", "4 empanadas grandes de col, tomate, cebolla", "4 lonchas de queso", "Hojas de lechuga y salsa de ketchup y mostaza para decorar"],
+        "instruction": ["Mezclar la carne molida con puré de cebolla, puré de ajo, pimienta negra en polvo y sal.", "Dividir la mezcla en 4 empanadas y armar en los panecillos para hamburguesas.", "Colocar col, tomate, cebolla, queso y lechuga en la hamburguesa.", "Decorar con salsa de ketchup y mostaza y servir."]
+    },
+    {
+        "recipeName": "रिसोटो",
+        "ingredients": ["1 कप आर्बोरियो चावल", "1/2 कप सुखा सफेद वाइन", "1 प्याज, कद्दुकस किया गया", "2 छोटे चम्मच ऑलिव ऑयल", "4 कप वेजिटेबल स्टॉक", "1/2 कप पारमेजान चीज, कद्दुकस की गई", "नमक और काली मिर्च स्वाद के अनुसार", "2 बड़े चम्मच कटा हुआ पेट्रोलियम जेली", "कुछ धनिया पत्तियां सजाने के लिए"],
+        "instruction": ["ऑलिव ऑयल में प्याज को सॉटे करें।", "आर्बोरियो चावल डालें और सुखा सफेद वाइन मिलाकर पकाएं।", "वेजिटेबल स्टॉक को धीरे-धीरे मिलाते रहें जब तक चावल पक जाएं।", "पारमेजान चीज, नमक, काली मिर्च, और पेट्रोलियम जेली मिलाकर सर्व करें।", "धनिया पत्तियों से सजाकर परोसें।"]
+    },
+    {
+        "recipeName": "Risotto",
+        "ingredients": ["1 cup Arborio rice", "1/2 cup dry white wine", "1 onion, finely chopped", "2 small spoons olive oil", "4 cups vegetable stock", "1/2 cup Parmesan cheese, grated", "Salt and black pepper to taste", "2 large spoons chopped parsley", "Some parsley leaves for garnish"],
+        "instruction": ["Sauté onion in olive oil.", "Add Arborio rice and cook with dry white wine.", "Gradually add vegetable stock while stirring until rice is cooked.", "Mix in Parmesan cheese, salt, black pepper, and chopped parsley.", "Serve garnished with parsley leaves."]
+    },
+    {
+        "recipeName": "Risotto",
+        "ingredients": ["1 taza de arroz Arborio", "1/2 taza de vino blanco seco", "1 cebolla, finamente picada", "2 cucharaditas de aceite de oliva", "4 tazas de caldo de verduras", "1/2 taza de queso Parmesano, rallado", "Sal y pimienta negra al gusto", "2 cucharadas grandes de perejil picado", "Algunas hojas de perejil para decorar"],
+        "instruction": ["Sofría la cebolla en aceite de oliva.", "Añada el arroz Arborio y cocine con vino blanco seco.", "Añada gradualmente caldo de verduras mientras revuelve hasta que el arroz esté cocido.", "Mezcle queso Parmesano, sal, pimienta negra y perejil picado.", "Sirva decorado con hojas de perejil."]
+    },
+    {
+        "recipeName": "ग्वाकामोले",
+        "ingredients": ["2 बड़े अवोकाडो", "1 छोटा प्याज, कद्दुकस किया गया", "1 टमाटर, कद्दुकस किया गया", "1 हरी चिली, कद्दुकस की गई", "1/4 कप कोरिएंडर पत्तियां, कटी हुई", "1 बड़ा लीमू का रस", "नमक स्वाद के अनुसार", "तोर्टिला चिप्स सर्व करने के लिए"],
+        "instruction": ["अवोकाडो को कद्दूकस करें और एक बौल में निकालें।", "प्याज, टमाटर, हरी चिली, और कोरिएंडर पत्तियां मिलाएं।", "लीमू का रस डालें और नमक से स्वाद करें।", "तोर्टिला चिप्स के साथ सर्व करें।"]
+    },
+    {
+        "recipeName": "Guacamole",
+        "ingredients": ["2 large avocados", "1 small onion, finely chopped", "1 tomato, diced", "1 green chili, finely chopped", "1/4 cup chopped cilantro", "Juice of 1 large lime", "Salt to taste", "Tortilla chips for serving"],
+        "instruction": ["Mash avocados and place in a bowl.", "Mix in chopped onion, tomato, green chili, and cilantro.", "Add lime juice and season with salt.", "Serve with tortilla chips."]
+    },
+    {
+        "recipeName": "Guacamole",
+        "ingredients": ["2 aguacates grandes", "1 cebolla pequeña, finamente picada", "1 tomate, cortado en cubos", "1 chile verde, finamente picado", "1/4 taza de cilantro picado", "Jugo de 1 limón grande", "Sal al gusto", "Totopos para servir"],
+        "instruction": ["Machacar los aguacates y colocar en un tazón.", "Mezclar con cebolla picada, tomate, chile verde y cilantro.", "Agregar jugo de limón y sazonar con sal.", "Servir con totopos."]
+    },
+    {
+        "recipeName": "पास्ता कार्बोनारा",
+        "ingredients": ["200 ग्राम स्पेगेटी", "100 ग्राम पैंचेटा", "2 छोटे चम्मच ऑलिव ऑयल", "100 ग्राम पैंसे", "2 बड़े चम्मच रेगियानो चीज, कद्दुकस की गई", "2 बड़े चम्मच क्रीम", "2 बड़े चम्मच पारमेजान चीज, कद्दुकस की गई", "नमक और काली मिर्च स्वाद के अनुसार", "2 बड़े चम्मच चाकोलेट मसाला"],
+        "instruction": ["स्पेगेटी को बॉयल करके निकालें।", "ऑलिव ऑयल में पैंसे तलें और रेगियानो चीज मिलाएं।", "पैंचेटा को बॉयल करके ऑलिव ऑयल में मिलाएं।", "स्पेगेटी, पैंसे, रेगियानो चीज, क्रीम, पारमेजान चीज, नमक, काली मिर्च, और चाकोलेट मसाला मिलाएं।", "ताजगी वाले पास्ता कार्बोनारा को परोसें।"]
+    },
+    {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": ["200g spaghetti", "100g pancetta", "2 small spoons olive oil", "100g peas", "2 large spoons grated Pecorino cheese", "2 large spoons cream", "2 large spoons grated Parmesan cheese", "Salt and black pepper to taste", "2 large spoons chocolate masala"],
+        "instruction": ["Boil spaghetti and set aside.", "Fry pancetta in olive oil and mix in Pecorino cheese.", "Boil pancetta and mix in olive oil.", "Combine spaghetti, pancetta, Pecorino cheese, cream, Parmesan cheese, salt, black pepper, and chocolate masala.", "Serve the freshly made Pasta Carbonara."]
+    },
+    {
+        "recipeName": "Pasta Carbonara",
+        "ingredients": ["200g de espaguetis", "100g de panceta", "2 cucharaditas de aceite de oliva", "100g de guisantes", "2 cucharadas grandes de queso Pecorino rallado", "2 cucharadas grandes de crema", "2 cucharadas grandes de queso Parmesano rallado", "Sal y pimienta negra al gusto", "2 cucharadas grandes de masala de chocolate"],
+        "instruction": ["Hervir los espaguetis y reservar.", "Freír la panceta en aceite de oliva y mezclar con queso Pecorino.", "Hervir la panceta y mezclar con aceite de oliva.", "Combinar los espaguetis, panceta, queso Pecorino, crema, queso Parmesano, sal, pimienta negra y masala de chocolate.", "Servir la Pasta Carbonara recién hecha."]
+    }
+]

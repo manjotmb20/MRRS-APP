@@ -1,0 +1,4 @@
+pip install nltk spacy tensorflow torch stanza langdetect sentence_transformers faiss-cpu googletrans==4.0.0-rc1 streamlit
+python -m spacy download en_core_web_sm
+python -m spacy download es_core_news_sm
+python -m spacy download xx_ent_wiki_sm
